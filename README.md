@@ -1,2 +1,4 @@
-# hackyeah2
-HackYeah Second
+# X-CITY by the City of Kraków
+In the "CITY" track you can contribute to raising the level of security in the city by suggesting the use of data analysis. Thanks to your solutions, #Krakow will get a spatial view of when and how many car accidents have occurred, and this will make spatial analyses easier! You can contribute significantly to safety on Krakow roads!
+
+It’s not ending with working on the tool and using real data. You will have an opportunity to see how many factors and dependencies determine the functioning of the city and influence the effective response to the challenges it faces.
